@@ -11,5 +11,5 @@ const Turma = db.define('turma', {
     },
     turno_turma: {
         type: Sequelize.STRING(100),
-    },
+    }
 })
