@@ -17,3 +17,5 @@ const Curso = db.define('curso', {
     },
 
 })
+
+export default Curso

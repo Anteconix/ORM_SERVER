@@ -13,3 +13,5 @@ const Turma = db.define('turma', {
         type: Sequelize.STRING(100),
     }
 })
+
+export default Turma

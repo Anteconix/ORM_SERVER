@@ -7,3 +7,4 @@ export const getTurmas = async(req, res) => {
         console.log("Error ao acessar a tabela turma")
     }
 }
+

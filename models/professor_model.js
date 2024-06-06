@@ -13,3 +13,5 @@ const Professor = db.define('professor', {
         type: Sequelize.STRING(200)
     }
 })
+
+export default Professor
